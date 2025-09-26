@@ -8,7 +8,7 @@ Mi nombre es Mauricio Torres - Front end Developer Córdoba, Argentina.
 
 
 Habilidades Técnicas
-- Lenguajes y Frameworks: Dart, Flutter, JavaScript, HTML, CSS, React (básico), Angular (básico)
+- Lenguajes y Frameworks: Dart, Flutter, JavaScript, HTML, CSS, React (básico), Angular
 - Arquitectura: Clean Architecture, BLoC, Provider
 - Back-end / BBDD: Firebase, MySQL, SQL Server
 - Herramientas: Git & GitHub, Jira, ClickUp, Postman, GraphQL
